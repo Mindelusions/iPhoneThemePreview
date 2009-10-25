@@ -1,0 +1,62 @@
+#page-1 .Text, #page-2 .Text { background: url(../Theme/Icons/Text.png) center center no-repeat; }
+#dock .Text { background: url(../Theme/Icons/Text.png) center 10px no-repeat; }
+
+#page-1 .Calendar, #page-2 .Calendar { background: url(../Theme/Icons/Calendar.png) center center no-repeat; }
+#dock .Calendar { background: url(../Theme/Icons/Calendar.png) center 10px no-repeat; }
+
+#page-1 .Photos, #page-2 .Photos { background: url(../Theme/Icons/Photos.png) center center no-repeat; }
+#dock .Photos { background: url(../Theme/Icons/Photos.png) center 10px no-repeat; }
+
+#page-1 .Camera, #page-2 .Camera { background: url(../Theme/Icons/Camera.png) center center no-repeat; }
+#dock .Camera { background: url(../Theme/Icons/Camera.png) center 10px no-repeat; }
+
+#page-1 .YouTube, #page-2 .YouTube { background: url(../Theme/Icons/YouTube.png) center center no-repeat; }
+#dock .YouTube { background: url(../Theme/Icons/YouTube.png) center 10px no-repeat; }
+
+#page-1 .Stocks, #page-2 .Stocks { background: url(../Theme/Icons/Stocks.png) center center no-repeat; }
+#dock .Stocks { background: url(../Theme/Icons/Stocks.png) center 10px no-repeat; }
+
+#page-1 .Maps, #page-2 .Maps { background: url(../Theme/Icons/Maps.png) center center no-repeat; }
+#dock .Maps { background: url(../Theme/Icons/Maps.png) center 10px no-repeat; }
+
+#page-1 .Weather, #page-2 .Weather { background: url(../Theme/Icons/Weather.png) center center no-repeat; }
+#dock .Weather { background: url(../Theme/Icons/Weather.png) center 10px no-repeat; }
+
+#page-1 .Clock, #page-2 .Clock { background: url(../Theme/Icons/Clock.png) center center no-repeat; }
+#dock .Clock { background: url(../Theme/Icons/Clock.png) center 10px no-repeat; }
+
+#page-1 .Calculator, #page-2 .Calculator { background: url(../Theme/Icons/Calculator.png) center center no-repeat; }
+#dock .Calculator { background: url(../Theme/Icons/Calculator.png) center 10px no-repeat; }
+
+#page-1 .Notes, #page-2 .Notes { background: url(../Theme/Icons/Notes.png) center center no-repeat; }
+#dock .Notes { background: url(../Theme/Icons/Notes.png) center 10px no-repeat; }
+
+#page-1 .Settings, #page-2 .Settings { background: url(../Theme/Icons/Settings.png) center center no-repeat; }
+#dock .Settings { background: url(../Theme/Icons/Settings.png) center 10px no-repeat; }
+
+#page-1 .iTunes, #page-2 .iTunes { background: url(../Theme/Icons/iTunes.png) center center no-repeat; }
+#dock .iTunes { background: url(../Theme/Icons/iTunes.png) center 10px no-repeat; }
+
+#page-1 .AppStore, #page-2 .AppStore { background: url(../Theme/Icons/App%20Store.png) center center no-repeat; }
+#dock .AppStore { background: url(../Theme/Icons/App%20Store.png) center 10px no-repeat; }
+
+#page-1 .Phone, #page-2 .Phone { background: url(../Theme/Icons/Phone.png) center center no-repeat; }
+#dock .Phone { background: url(../Theme/Icons/Phone.png) center 10px no-repeat; }
+
+#page-1 .Mail, #page-2 .Mail { background: url(../Theme/Icons/Mail.png) center center no-repeat; }
+#dock .Mail { background: url(../Theme/Icons/Mail.png) center 10px no-repeat; }
+
+#page-1 .Safari, #page-2 .Safari { background: url(../Theme/Icons/Safari.png) center center no-repeat; }
+#dock .Safari { background: url(../Theme/Icons/Safari.png) center 10px no-repeat; }
+
+#page-1 .iPod, #page-2 .iPod { background: url(../Theme/Icons/iPod.png) center center no-repeat; }
+#dock .iPod { background: url(../Theme/Icons/iPod.png) center 10px no-repeat; }
+
+#page-1 .Music, #page-2 .Music { background: url(../Theme/Icons/Music.png) center center no-repeat; }
+#dock .Music { background: url(../Theme/Icons/Music.png) center 10px no-repeat; }
+
+#page-1 .Videos, #page-2 .Videos { background: url(../Theme/Icons/Videos.png) center center no-repeat; }
+#dock .Videos { background: url(../Theme/Icons/Videos.png) center 10px no-repeat; }
+
+#page-1 .Contacts, #page-2 .Contacts { background: url(../Theme/Icons/Contacts.png) center center no-repeat; }
+#dock .Contacts { background: url(../Theme/Icons/Contacts.png) center 10px no-repeat; }

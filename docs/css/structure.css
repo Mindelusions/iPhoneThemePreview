@@ -1,0 +1,212 @@
+body {
+text-align:center;
+background:#000;
+font-size:11px;
+font-family:Lucida Grande, Lucida sans, Arial, sans-serif;
+margin:0;
+padding:0;
+color:#fff;
+}
+
+#iphone {
+margin: 0 auto;
+height:480px;
+width:320px;
+padding: 59px 240px 70px 240px;
+background:#000 url(iPhoneBackground.png) top no-repeat;
+}
+
+#ipod {
+margin: 0 auto;
+height:480px;
+width:320px;
+padding: 59px 240px 70px 240px;
+background:#000 url(iPodBackground.png) top no-repeat;
+}
+
+#statusbar {
+position:absolute;
+top:0px;
+left:0px;
+height:20px;
+padding:0;
+width:320px;
+background:url(../Theme/StatusBar.png) left center no-repeat;
+}
+
+#status-iphone {
+position:absolute;
+top:0px;
+left:0px;
+height:20px;
+padding:0;
+width:320px;
+background:url(status-iphone.png) left top no-repeat;
+}
+
+#status-ipod {
+position:absolute;
+top:0px;
+left:0px;
+height:20px;
+padding:0;
+width:320px;
+background:url(status-ipod.png) left top no-repeat;
+}
+
+#screen {
+position:relative;
+margin: 0;
+padding:20px 0 0 0;
+height:460px;
+width:320px;
+overflow:hidden;
+background:#000 url(../Theme/Wallpaper.png) center top no-repeat;
+/*background:#000 url(../Theme/Wallpaper.jpg) center top no-repeat;    -     CHANGE BACKGROUND RULE WITH THIS IF YOU WALLPAPER HAVE .JPG EXTENSION*/
+}
+
+#page-1 {
+position:absolute;
+top:20px;
+left:0px;
+margin: 0;
+padding:0 9px;
+width:304px;
+}
+
+#page-2 {
+position:absolute;
+top:20px;
+left:320px;
+margin: 0;
+padding:0 9px;
+width:304px;
+}
+#page-3 {
+position:absolute;
+top:20px;
+left:640px;
+margin: 0;
+padding:0 9px;
+width:304px;
+}
+
+#switcher-sx {
+position:absolute;
+margin: 0;
+padding:0;
+width:155px;
+height:6px;
+bottom:102px;
+left:0px;
+background:url(../Theme/UIImages/UIPageIndicator.png) center right no-repeat;
+cursor:pointer;
+}
+
+#switcher-dx {
+position:absolute;
+margin: 0;
+padding:0;
+width:155px;
+height:6px;
+bottom:102px;
+right:0px;
+background:url(../Theme/UIImages/UIPageIndicator.png) center left no-repeat;
+cursor:pointer;
+}
+
+#switcher-sx-sel {
+position:absolute;
+margin: 0;
+padding:0;
+width:155px;
+height:6px;
+bottom:102px;
+left:0px;
+background:url(../Theme/UIImages/UIPageIndicatorCurrent.png) center right no-repeat;
+cursor:pointer;
+display:none;
+}
+
+#switcher-dx-sel {
+position:absolute;
+margin: 0;
+padding:0;
+width:155px;
+height:6px;
+bottom:102px;
+right:0px;
+background:url(../Theme/UIImages/UIPageIndicatorCurrent.png) center left no-repeat;
+cursor:pointer;
+display:none;
+}
+
+#dock {
+position:absolute;
+bottom:0px;
+left:0px;
+height:91px;
+padding:0 9px;
+width:304px;
+background:url(../Theme/Dock.png) left center no-repeat;
+}
+
+#page-1 .ico, #page-2 .ico {
+position:relative;
+float:left;
+background: url(../Theme/Icons/blank.png) center center no-repeat;
+font-size:10px;
+font-weight:600;
+width: 76px;
+padding-top:76px;
+line-height:11px;
+text-align:center;
+text-shadow: #000 1px 0px -1px;
+cursor:pointer;
+}
+
+#dock .ico {
+position:relative;
+float:left;
+background: url(../Theme/Icons/blank.png) center 10px no-repeat;
+font-size:10px;
+font-weight:600;
+width: 76px;
+padding-top:76px;
+line-height:14px;
+text-align:center;
+text-shadow: #000 1px 0px -1px;
+}
+
+.badge {
+position:absolute;
+top:0px;
+right:0px;
+height:31px;
+width:29px;
+background: url(../Theme/Bundles/com.apple.springboard/SBBadgeBG.png) top left no-repeat;
+font-size:14px;
+line-height:24px;
+font-weight:bold;
+}
+
+#month {
+font-family: Arial, sans-serif;
+position:absolute;
+top:15px;
+font-size:10px;
+left:0px;
+width: 76px;
+text-align:center;
+text-shadow: #000 1px 0px -1px;
+}
+#day {
+font-family: Arial, sans-serif;
+position:absolute;
+top:45px;
+font-size:36px;
+letter-spacing: 0px;
+left:0px;
+width: 76px;
+color: #666;
+}
